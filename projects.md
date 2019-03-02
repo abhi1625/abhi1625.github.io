@@ -4,9 +4,9 @@ title: Projects
 order: 2
 ---
 
-The following is a complete list of my scholarly publications, which touch on mobile robotics, state estimation, computer vision and machine learning, among other things.
+Here is a list of some selected projects I have completed. These projects touch on mobile robots, quadrotors, and computer vision, among other things.
 
-For more information, visit my <a href="//scholar.google.com/citations?user={{ site.author.scholar }}" target="_blank"><b>Google Scholar page</b> <i class="fa fa-external-link"></i></a>.
+For more information, visit my <a href="//github.com/{{ site.author.github }}" target="_blank"><b>Github page</b> <i class="fa fa-external-link"></i></a>.
 
 <hr/>
 
