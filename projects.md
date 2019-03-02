@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 order: 2
 ---
 
@@ -17,9 +17,9 @@ For more information, visit my <a href="//scholar.google.com/citations?user={{ s
 
     <div>
     <br/>
-    
+
     <h3>{{ project.title }}</h3><br/>
-    
+
     {% if project.img %}
         <img class="right" style="width: 40%; padding-left: 1em" src="{{ project.img }}">
     {% endif %}
