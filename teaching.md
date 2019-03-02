@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Teaching
 order: 3
@@ -23,7 +23,7 @@ order: 3
         <i>{{ course.terms }}</i><br/><br/>
 
         {{ course.description }}<br/><br/>
-        
+
         {% if course.note %}
         <i>{{ course.note }}</i><br/>
         {% endif %}
@@ -32,4 +32,4 @@ order: 3
     </div><br/><hr/>
 {% endfor %}
 
-</div>
+</div> -->

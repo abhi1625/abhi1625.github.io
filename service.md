@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Service
 order: 4
@@ -21,13 +21,13 @@ order: 4
         {% endif %}
 
         {% if org.role %}
-            <b>{{ org.role }} &ndash; </b> 
+            <b>{{ org.role }} &ndash; </b>
             {% if org.link %}
                 <a href="{{ org.link }}" target="_blank"><b>{{ org.title }}</b></a><br/>
             {% else %}
                 <b>{{ org.title }}</b><br/>
             {% endif %}
-            
+
             <i>{{ org.years }}</i><br/>
         {% else %}
             {% if org.shorttitle %}
@@ -52,8 +52,8 @@ order: 4
         {% endif %}
 
         <br/>
-        
+
     {% endfor %}
     </div><br/><hr/>
 {% endfor %}
-</div>
+</div> -->
