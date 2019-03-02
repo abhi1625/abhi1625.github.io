@@ -2,11 +2,12 @@
 layout: page
 title: Service
 order: 4
+output: false
 ---
 
 <hr/>
 <div>
-{% assign sorted_service = site.service | sort:"order" %}
+<!-- {% assign sorted_service = site.service | sort:"order" %} -->
 {% for service in sorted_service %}
     <div><br/>
     <h3>{{ service.title }}</h3><br/>
