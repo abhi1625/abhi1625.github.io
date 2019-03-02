@@ -26,6 +26,6 @@ plugins:             [jekyll-paginate]
 
 # Collections
 collections:
-  - research
-  - teaching
-  - service
+  # - research
+  # - teaching
+  # - service
