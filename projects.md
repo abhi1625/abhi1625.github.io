@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 order: 2
 ---
 
@@ -11,7 +11,7 @@ For more information, visit my <a href="//scholar.google.com/citations?user={{ s
 <hr/>
 
 <div>
-{% assign sorted_projects = site.research | sort:"order" %}
+{% assign sorted_projects = site.projects | sort:"order" %}
 
 {% for project in sorted_projects %}
 
