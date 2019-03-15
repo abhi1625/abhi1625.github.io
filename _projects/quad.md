@@ -8,5 +8,4 @@ publications:
     authors: "Abhinav Modi"
     note: "*Equal contribution"
     links:
-        code: //github.com/utiasSTARS/sun-bcnn
----     
+        code: //github.com/abhi1625/ENPM-667
