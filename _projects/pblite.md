@@ -8,5 +8,5 @@ publications:
     authors: "Abhinav Modi"
     note: "The algorithm uses DoG, Leung-malik and Gabor filter Banks to generate texture, brightness and color maps to improve the boundary detection results of Canny and Sobel baselines."
     links:
-        code: //github.com/abhi1625/CMSC-733/tree/master/Abhi1625_hw0
+        code: "https://github.com/abhi1625/CMSC-733/tree/master/Abhi1625_hw0"
 ---

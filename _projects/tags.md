@@ -9,5 +9,5 @@ publications:
     note: "Blob detection is used to detect three encoded(ID and orientation) tags which is followed by the use of homography and then perspective warping to project a cube on each tag based on its ID and orientation."
     links:
         video:  "https://drive.google.com/drive/folders/1dk9ZTqVjpPAycB8o5TVLospqF8vfgoef?usp=sharing"
-        code: //github.com/abhi1625/ENPM673/tree/master/Project1
+        code: "https://github.com/abhi1625/ENPM673/tree/master/Project1"
 ---     
