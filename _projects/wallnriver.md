@@ -8,6 +8,7 @@ publications:
     authors: "Abhinav Modi, Prateek Arora"
     note: "Given a wall of unknown position and orientation, we developed a feedback system based on dense optical flow estimation using Gunnar Farneback approach to align with the wall and fly above or below it."
     links:
+      code: "https://github.com/abhi1625/ENAE788M_wallnriver"
       video: "https://youtu.be/23Uqc3Fq_Ns"
 
 ---
