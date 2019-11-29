@@ -1,6 +1,6 @@
 ---
 title: PB-Lite
-order: 2
+order: 3
 img: /assets/img/web.png
 publications:
   - date: 2017-09-11
