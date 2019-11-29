@@ -1,6 +1,6 @@
 ---
 title: 8-Puzzle Solver
-order: 10
+order: 11
 img: /assets/img/puzzle.PNG
 publications:
   - date: 2019-02-11
