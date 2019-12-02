@@ -1,6 +1,6 @@
 ---
 title: MyAutoPano
-order: 2
+order: 4
 img: /assets/img/pano.png
 publications:
   - date: 2017-09-11

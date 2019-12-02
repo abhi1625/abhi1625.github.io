@@ -1,6 +1,6 @@
 ---
 title: Cable Suspended Load from a Quadrotor
-order: 6
+order: 10
 img: /assets/img/quad.png
 publications:
   - date: 2017-09-30
