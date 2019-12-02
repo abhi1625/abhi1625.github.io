@@ -1,6 +1,6 @@
 ---
 title: HODM
-order: 10
+order: 3
 img: /assets/img/video.gif
 publications:
   - date: 2019-10-21

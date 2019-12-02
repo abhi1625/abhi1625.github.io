@@ -1,6 +1,6 @@
 ---
 title: WALLE 2.0
-order: 5
+order: 7
 img: /assets/img/walle.png
 publications:
   - date: 2016-09-19

@@ -1,6 +1,6 @@
 ---
 title: MountainCar-v0
-order: 8
+order: 2
 img: /assets/img/agent.gif
 publications:
   - date: 2019-11-15

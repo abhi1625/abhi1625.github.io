@@ -1,6 +1,6 @@
 ---
 title: Finding Shortest Path
-order: 9
+order: 8
 img: /assets/img/plot.PNG
 publications:
   - date: 2019-02-20

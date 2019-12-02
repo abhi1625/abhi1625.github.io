@@ -1,6 +1,6 @@
 ---
 title: BIOBOT
-order: 7
+order: 9
 img: /assets/img/rover.png
 publications:
   - date: 2016-06-20
